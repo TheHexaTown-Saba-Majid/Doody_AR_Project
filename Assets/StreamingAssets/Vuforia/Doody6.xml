@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="water_Cycle1" size="1.000000 0.705448" />
+    <ImageTarget name="water_Cycle" size="1.000000 0.705448" />
+    <ImageTarget name="brain" size="1.000000 0.708640" />
+    <ImageTarget name="Nervous_System" size="1.000000 1.414619" />
+    <ImageTarget name="Solar_System" size="1.000000 1.414619" />
+  </Tracking>
+</QCARConfig>
